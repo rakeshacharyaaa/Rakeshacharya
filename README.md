@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Rakesh Acharya!<br>🚀 Final-year CSE student passionate about MERN stack, AI apps, and cloud computing (AWS).<br>💻 Built projects like Smart Habit Tracker, AI Resume Analyzer, and Music Genre App.<br>🎓 Certified in AWS Cloud Foundations & BE10x AI Masterclass.<br>✨ Love building impactful, modern, and gamified tech solutions.<br><br>
+# 💫 Hello there!
+I’m Rakesh Acharya!<br>🚀 Final-year CSE student passionate about MERN stack, AI apps, and cloud computing (AWS).<br>💻 Built projects like Smart Habit Tracker, AI Resume Analyzer, and Music Genre App.<br>🎓 Certified in AWS Cloud Foundations & BE10x AI Masterclass.<br>✨ Love building impactful, modern, and gamified tech solutions.<br><br>
 
 
 ## 🌐 Socials:
